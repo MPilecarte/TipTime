@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="entradaGorgeta">Cost of Service</string>
+    <string name="avaliarServico">How was the service?</string>
+    <string name="incrivel1">Amazing (20%)</string>
+    <string name="bom2">Good (18%)</string>
+    <string name="ok3">Ok (15%)</string>
+    <string name="pontaArredondada">Round up tip?</string>
+    <string name="CalcularGor">Calculate</string>
+    <string name="botaoCalcular">Tip Amount</string>
+    <string name="tip_amount">Sei la</string>
+</resources>
